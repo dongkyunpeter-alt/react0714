@@ -1,4 +1,4 @@
-import Picture from "./Picture";
+import Picture from "../Picture";
 const Member = (props) => {
   return (
     <>
